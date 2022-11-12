@@ -1,0 +1,12 @@
+com/ihzapassya/recyclerviewinfragment/databinding/FragmentFoodBinding.java
+ com.ihzapassya.recyclerviewinfragment.databinding.FragmentFoodBinding
+com/ihzapassya/recyclerviewinfragment/databinding/ActivityDetailFoodBinding.java
+ com.ihzapassya.recyclerviewinfragment.databinding.ActivityDetailFoodBinding
+com/ihzapassya/recyclerviewinfragment/databinding/ActivityMainBinding.java
+ com.ihzapassya.recyclerviewinfragment.databinding.ActivityMainBinding
+com/ihzapassya/recyclerviewinfragment/databinding/FragmentCallBinding.java
+ com.ihzapassya.recyclerviewinfragment.databinding.FragmentCallBinding
+com/ihzapassya/recyclerviewinfragment/BuildConfig.java
+ com.ihzapassya.recyclerviewinfragment.BuildConfig
+com/ihzapassya/recyclerviewinfragment/databinding/ItemFoodMenuBinding.java
+ com.ihzapassya.recyclerviewinfragment.databinding.ItemFoodMenuBinding

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\RecyclerView-in-Fragment-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_call.xml",
+        "source": "D:\\RecyclerView-in-Fragment-main\\app\\src\\main\\res\\layout\\fragment_call.xml"
+    },
+    {
+        "merged": "D:\\RecyclerView-in-Fragment-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_food.xml",
+        "source": "D:\\RecyclerView-in-Fragment-main\\app\\src\\main\\res\\layout\\fragment_food.xml"
+    },
+    {
+        "merged": "D:\\RecyclerView-in-Fragment-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail_food.xml",
+        "source": "D:\\RecyclerView-in-Fragment-main\\app\\src\\main\\res\\layout\\activity_detail_food.xml"
+    },
+    {
+        "merged": "D:\\RecyclerView-in-Fragment-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\RecyclerView-in-Fragment-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\RecyclerView-in-Fragment-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_food_menu.xml",
+        "source": "D:\\RecyclerView-in-Fragment-main\\app\\src\\main\\res\\layout\\item_food_menu.xml"
+    }
+]
